@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">My First Kotlin Android Project</string>
+    <string name="my_first_kotlin_androif_project">My First Kotlin Androif Project</string>
 </resources>
