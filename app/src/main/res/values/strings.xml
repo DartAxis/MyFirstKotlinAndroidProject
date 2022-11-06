@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">My First Kotlin Android Project</string>
     <string name="my_first_kotlin_android_project">My First Kotlin Android Project</string>
+    <string name="use_token">use token</string>
 </resources>
